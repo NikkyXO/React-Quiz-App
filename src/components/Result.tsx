@@ -1,5 +1,3 @@
-import React from "react";
-
 interface QuestionType {
   question: string;
   correctAnswer: string;
