@@ -1,0 +1,33 @@
+[
+    {
+        "question": "What is the capital of Nigeria?",
+        "options": ["Lagos", "Portharcourt", "Abuja", "London"],
+        "correctAnswer": "Abuja"
+      },
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "What is singer 'Tems' Real Name?",
+      "options": ["Temitope Akanbi", "Temidayo Ojo", "Temiloluwa Ayomide", "Temilade Openiyi"],
+      "correctAnswer": "Temilade Openiyi"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Great White Shark", "Giraffe"],
+      "correctAnswer": "Blue Whale"
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "options": ["50°C", "100°C", "150°C", "200°C"],
+      "correctAnswer": "100°C"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Jane Austen"],
+      "correctAnswer": "William Shakespeare"
+    }
+]
+  
